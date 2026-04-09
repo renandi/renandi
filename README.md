@@ -9,7 +9,7 @@ Aerospace Engineer transitioning into Data Science and AI. I have experience wor
 **DataAnnotation | AI Quality Analyst** (May 2025 – Present)  
 - Refine and evaluate generative AI outputs, ensuring high accuracy and quality through detailed analysis, prompt engineering, and feedback to improve model performance.
 
-**HSP SOFTWARE | BI Developer Intern** (June 2023 – Jan 2024)  
+**HSP Software | BI Developer Intern** (June 2023 – Jan 2024)  
 - Developed dynamic dashboards and complex SQL queries across multiple database systems (Oracle, MySQL, SQL Server), enabling insightful business reports.  
 - Designed and managed ETL pipelines utilizing Azure Synapse Analytics to facilitate seamless data integration and analytics.  
 - Managed version control via Git, optimized workflows in Linux environments, and interfaced with APIs to enhance data collection processes.
