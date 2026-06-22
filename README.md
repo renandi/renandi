@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renan Nandi</h1>
-<h3 align="center">Aerospace Engineering graduate transitioning into Data Science and AI</h3>
+<h3 align="center">Aerospace Engineering graduate transitioning into tech and AI</h3>
 <h4 align="center">🌱 Currently learning Agentic AI and ML.</h4>
 
 ---
