@@ -23,7 +23,7 @@ Clear, analytical, and detail-oriented communication skills suitable for technic
 
 - **LAB365**: Machine Learning and Computer Vision (in progress...) 
 - **DeepLearning.ai:** Multi-AI Agent Systems with crewAI (2026)
-- **LAB365**: Full Stack Web Development (2025). The final project for this course is available on [Github](https://github.com/renandi/ecoville).
+- **LAB365**: Full Stack Web Development (2025). The final project for this course is available on [Ecoville Github Page](https://github.com/renandi/ecoville), where I developed the backend using Java Spring Boot.
 - **IBM SkillsBuild:** Big Data Foundations Level 1 (2024)  
 - **IBM SkillsBuild:** Applied Data Science with Python (2024)  
 - **IBM SkillsBuild:** AI Fundamentals (2024)  
