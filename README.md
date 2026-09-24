@@ -21,7 +21,8 @@ Clear, analytical, and detail-oriented communication skills suitable for technic
 
 ### **Certifications & Continuous Learning**
 
-- **LAB365**: Machine Learning and Computer Vision (in progress...) 
+- **LAB365**: Machine Learning and Computer Vision (in progress...)
+  - [Casting Products Quality Inspection Repository](https://github.com/renandi/CV-casting-product-inspection)
 - **DeepLearning.ai:** Multi-AI Agent Systems with crewAI (2026)
 - **LAB365**: Full Stack Web Development (2025).
   - The final project for this course is available on [Ecoville Github Page](https://github.com/renandi/ecoville), where I developed the backend using Java Spring Boot.
